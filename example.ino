@@ -53,6 +53,6 @@ void loop()
 
   
   lcd.setCursor(0,3); 
-  lcd.print("12345678901234567890");
+  lcd.print("www.iotmodules.co.uk");
   delay(8000);
 }
