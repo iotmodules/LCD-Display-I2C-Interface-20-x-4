@@ -49,7 +49,7 @@ void loop()
   lcd.print("20 Character 4 Lines");
 
   lcd.setCursor(0,2);
-  lcd.print("Examples on GitHub");
+  lcd.print("Example on GitHub");
 
   
   lcd.setCursor(0,3); 
